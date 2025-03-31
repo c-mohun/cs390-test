@@ -1,0 +1,18 @@
+{
+  "AnatomicalReference": "sub-23199_ses-v1_acq-rest_run-1_fmapid-auto00000_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-23199_ses-v1_acq-rest_run-1_fmapid-auto00000_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "ses-v1/func/sub-23199_ses-v1_task-rest_run-1_echo-1_bold.nii.gz",
+    "ses-v1/func/sub-23199_ses-v1_task-rest_run-1_echo-2_bold.nii.gz",
+    "ses-v1/func/sub-23199_ses-v1_task-rest_run-1_echo-3_bold.nii.gz",
+    "ses-v1/func/sub-23199_ses-v1_task-rest_run-1_echo-4_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/data/sub-23199/ses-v1/fmap/sub-23199_ses-v1_acq-rest_dir-match_run-1_epi.nii.gz",
+    "/data/sub-23199/ses-v1/fmap/sub-23199_ses-v1_acq-rest_dir-opp_run-1_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}
